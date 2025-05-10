@@ -1,0 +1,1001 @@
+Id Pelanggan,Usia,Jenis Kelamin,Wilayah,Jumlah Pembelian,Total Pengeluaran,Lama Bergabung (tahun),Tingkat Layanan,Gunakan Ulang,Rekomendasi ke Teman,Kepuasan Pelanggan
+7231,54,P,Surabaya,10,2882646,5,Buruk,Tidak,Tidak,Tidak
+9941,60,L,Bandung,10,1028008,4,Cukup,Tidak,Tidak,Puas
+2443,40,L,Surabaya,15,976441,7,Baik,Ya,Tidak,Puas
+8567,49,L,Medan,21,2386013,6,Buruk,Ya,Ya,Puas
+7538,30,L,Medan,36,3539709,9,Cukup,Tidak,Tidak,Puas
+2687,32,L,Medan,49,523555,7,Cukup,Ya,Tidak,Tidak
+9709,34,L,Medan,31,3283018,3,Baik,Ya,Tidak,Tidak
+3334,48,P,Jakarta,34,1614604,8,Baik,Ya,Ya,Tidak
+3833,24,P,Jakarta,7,2190137,9,Buruk,Ya,Tidak,Tidak
+4014,46,L,Surabaya,49,4243965,2,Buruk,Tidak,Tidak,Tidak
+8228,55,P,Surabaya,27,4116764,8,Buruk,Tidak,Ya,Puas
+9551,25,L,Jakarta,41,3784122,6,Cukup,Tidak,Tidak,Puas
+1866,52,L,Bandung,5,1209575,5,Baik,Ya,Ya,Puas
+5378,63,L,Bandung,44,2359181,6,Baik,Tidak,Tidak,Tidak
+7625,56,L,Surabaya,10,3685067,3,Buruk,Tidak,Tidak,Puas
+6128,44,P,Bandung,27,4440747,9,Buruk,Tidak,Tidak,Tidak
+7617,42,L,Bandung,29,1432223,2,Cukup,Tidak,Ya,Tidak
+6706,41,P,Surabaya,49,2780677,5,Sangat Baik,Ya,Tidak,Puas
+9741,54,P,Jakarta,33,3530766,1,Buruk,Tidak,Ya,Tidak
+4622,36,P,Bandung,10,3070485,5,Sangat Baik,Ya,Ya,Tidak
+5411,29,L,Jakarta,5,4685734,8,Buruk,Ya,Ya,Puas
+5593,46,L,Jakarta,38,3534743,9,Cukup,Ya,Ya,Tidak
+9808,39,P,Bandung,16,1697731,9,Baik,Tidak,Tidak,Puas
+3244,62,P,Medan,30,2149247,1,Baik,Ya,Ya,Puas
+2722,57,L,Jakarta,20,3710539,1,Sangat Baik,Ya,Ya,Puas
+9609,54,L,Surabaya,48,1831890,6,Cukup,Tidak,Tidak,Puas
+7612,23,L,Medan,37,533985,4,Buruk,Tidak,Tidak,Puas
+2865,64,P,Jakarta,36,856674,6,Buruk,Tidak,Ya,Puas
+8608,20,L,Medan,6,4675398,2,Cukup,Tidak,Ya,Puas
+8741,42,L,Surabaya,27,3358661,5,Cukup,Tidak,Tidak,Tidak
+7782,62,L,Medan,6,2389606,6,Buruk,Ya,Tidak,Tidak
+3355,61,L,Surabaya,6,226882,1,Baik,Tidak,Ya,Tidak
+2139,62,P,Surabaya,3,1570456,7,Cukup,Ya,Tidak,Puas
+8840,30,P,Bandung,18,1323531,2,Sangat Baik,Tidak,Tidak,Tidak
+5586,61,L,Surabaya,12,3658662,2,Buruk,Ya,Tidak,Puas
+5017,52,L,Bandung,4,2505414,3,Cukup,Ya,Tidak,Puas
+4995,63,L,Surabaya,17,3884289,1,Baik,Ya,Ya,Tidak
+9946,31,P,Bandung,4,3314306,9,Buruk,Tidak,Tidak,Tidak
+3308,30,P,Medan,34,4125609,7,Baik,Ya,Ya,Tidak
+5492,55,P,Bandung,7,4469632,2,Buruk,Tidak,Ya,Tidak
+7391,60,L,Bandung,27,3209245,3,Buruk,Tidak,Ya,Tidak
+3019,18,P,Medan,34,4319240,2,Cukup,Ya,Tidak,Tidak
+2878,29,L,Bandung,37,692248,7,Sangat Baik,Ya,Ya,Tidak
+2342,39,P,Bandung,26,3457752,8,Cukup,Ya,Ya,Puas
+9281,59,P,Bandung,8,66023,3,Buruk,Tidak,Tidak,Tidak
+1812,31,P,Surabaya,4,1366899,9,Baik,Ya,Tidak,Puas
+1870,29,P,Medan,30,3252363,7,Cukup,Tidak,Tidak,Tidak
+5316,22,L,Jakarta,44,903653,5,Buruk,Tidak,Ya,Tidak
+5936,37,L,Medan,42,3939518,2,Baik,Tidak,Ya,Puas
+8097,54,L,Surabaya,1,512828,9,Cukup,Ya,Ya,Puas
+2011,42,P,Medan,14,1501369,3,Buruk,Ya,Tidak,Tidak
+3985,24,L,Jakarta,6,4176663,1,Sangat Baik,Ya,Tidak,Tidak
+4131,24,P,Jakarta,4,3672376,2,Cukup,Ya,Tidak,Tidak
+4386,30,L,Bandung,19,2810160,1,Buruk,Ya,Ya,Puas
+8883,61,L,Surabaya,11,3702666,5,Baik,Tidak,Ya,Tidak
+9756,45,L,Surabaya,17,2938597,5,Buruk,Ya,Ya,Tidak
+3900,40,L,Bandung,45,264742,9,Cukup,Tidak,Ya,Tidak
+4254,44,P,Bandung,29,525963,3,Buruk,Ya,Tidak,Tidak
+5041,38,P,Bandung,19,404207,1,Cukup,Tidak,Tidak,Puas
+6043,57,P,Surabaya,17,4764093,2,Cukup,Tidak,Ya,Tidak
+8103,51,P,Jakarta,49,4392307,3,Baik,Tidak,Ya,Tidak
+8478,31,P,Surabaya,37,3730268,6,Buruk,Ya,Tidak,Tidak
+7371,50,L,Surabaya,33,3642605,5,Cukup,Ya,Tidak,Tidak
+8338,28,P,Surabaya,43,1752875,4,Baik,Ya,Ya,Puas
+6721,52,L,Surabaya,41,1432268,6,Cukup,Tidak,Tidak,Puas
+2817,52,P,Jakarta,34,2069782,8,Buruk,Tidak,Ya,Puas
+7272,27,L,Jakarta,10,1348994,8,Sangat Baik,Tidak,Tidak,Tidak
+3867,20,P,Bandung,38,226572,9,Baik,Ya,Ya,Tidak
+4128,39,L,Bandung,35,3990799,5,Baik,Tidak,Tidak,Tidak
+6312,46,L,Bandung,48,2439189,6,Cukup,Tidak,Tidak,Puas
+3636,49,L,Bandung,33,1083301,1,Sangat Baik,Tidak,Tidak,Tidak
+2169,23,P,Bandung,8,4062985,7,Baik,Ya,Tidak,Tidak
+5213,26,P,Medan,41,1361680,2,Baik,Tidak,Ya,Puas
+2357,46,P,Surabaya,26,68692,6,Baik,Ya,Tidak,Tidak
+4060,39,L,Bandung,48,2527566,1,Cukup,Ya,Ya,Tidak
+5766,36,P,Surabaya,32,3067484,8,Baik,Tidak,Tidak,Tidak
+5183,25,P,Jakarta,38,2825920,1,Cukup,Ya,Tidak,Tidak
+7203,23,P,Medan,3,3373243,3,Cukup,Tidak,Tidak,Puas
+1620,32,L,Jakarta,17,1486223,7,Buruk,Ya,Ya,Puas
+1015,18,L,Medan,31,1690382,7,Sangat Baik,Ya,Tidak,Puas
+4913,57,P,Surabaya,23,4184890,2,Buruk,Tidak,Tidak,Puas
+8270,36,P,Medan,36,3848751,1,Sangat Baik,Ya,Ya,Puas
+7299,27,P,Jakarta,47,2297716,9,Baik,Tidak,Ya,Puas
+7996,35,P,Bandung,3,4099214,1,Buruk,Tidak,Tidak,Puas
+5346,24,P,Jakarta,48,3474993,1,Buruk,Ya,Tidak,Tidak
+7498,34,L,Surabaya,8,715372,9,Cukup,Ya,Tidak,Puas
+2757,42,P,Bandung,28,78538,9,Cukup,Tidak,Ya,Tidak
+8624,27,L,Medan,13,448254,2,Sangat Baik,Tidak,Tidak,Puas
+5171,24,P,Jakarta,7,3791825,7,Sangat Baik,Ya,Ya,Puas
+5862,32,L,Jakarta,22,400895,2,Baik,Tidak,Ya,Tidak
+6332,43,L,Surabaya,23,4364001,7,Sangat Baik,Tidak,Ya,Puas
+7821,44,P,Surabaya,5,1794725,1,Baik,Tidak,Ya,Puas
+7308,25,P,Surabaya,8,2056586,8,Sangat Baik,Ya,Tidak,Puas
+1088,21,P,Bandung,4,2221464,9,Cukup,Ya,Tidak,Puas
+5576,23,L,Medan,32,3776948,3,Cukup,Ya,Ya,Tidak
+4788,39,P,Medan,49,4708426,6,Sangat Baik,Ya,Ya,Tidak
+7144,25,L,Surabaya,37,4542451,7,Cukup,Tidak,Tidak,Tidak
+2542,52,P,Medan,14,2776978,5,Baik,Ya,Ya,Tidak
+8695,26,P,Jakarta,12,4421694,2,Sangat Baik,Tidak,Tidak,Tidak
+9606,44,L,Surabaya,1,478926,4,Sangat Baik,Tidak,Tidak,Puas
+7029,45,L,Bandung,45,921457,3,Sangat Baik,Tidak,Ya,Tidak
+5533,30,L,Jakarta,22,2874173,1,Sangat Baik,Ya,Ya,Tidak
+7289,42,L,Surabaya,27,4081342,7,Buruk,Ya,Ya,Puas
+5592,48,L,Jakarta,28,3697965,8,Baik,Ya,Ya,Tidak
+6729,44,L,Bandung,38,3871283,2,Cukup,Ya,Tidak,Tidak
+8165,21,P,Surabaya,29,2952527,4,Cukup,Tidak,Ya,Puas
+7116,18,L,Bandung,5,2287884,1,Baik,Tidak,Ya,Tidak
+2886,58,P,Jakarta,19,1070814,4,Cukup,Ya,Ya,Puas
+3063,58,L,Jakarta,10,1735909,5,Sangat Baik,Ya,Tidak,Tidak
+9045,27,L,Bandung,27,2658599,9,Sangat Baik,Ya,Ya,Tidak
+7722,63,P,Jakarta,37,2661486,6,Cukup,Ya,Ya,Tidak
+7920,45,P,Bandung,49,1209601,6,Cukup,Ya,Ya,Puas
+3521,32,L,Surabaya,39,3683193,9,Sangat Baik,Ya,Ya,Puas
+8700,45,L,Jakarta,7,284819,7,Buruk,Ya,Ya,Puas
+6407,22,L,Surabaya,14,2657796,2,Buruk,Tidak,Ya,Tidak
+7943,26,P,Medan,27,1445931,5,Cukup,Ya,Ya,Tidak
+9671,49,P,Bandung,8,1394287,7,Buruk,Tidak,Tidak,Tidak
+9915,53,L,Surabaya,3,904784,6,Sangat Baik,Ya,Ya,Puas
+4692,57,P,Bandung,15,1600234,1,Sangat Baik,Ya,Tidak,Tidak
+4377,33,L,Jakarta,5,3349638,1,Baik,Tidak,Tidak,Puas
+8163,42,P,Jakarta,48,2157524,7,Baik,Ya,Ya,Puas
+6525,57,P,Surabaya,36,2546391,7,Cukup,Ya,Ya,Tidak
+1368,26,L,Medan,2,997603,5,Sangat Baik,Ya,Tidak,Puas
+8884,51,P,Bandung,2,3011600,1,Cukup,Ya,Ya,Tidak
+3771,54,P,Medan,25,4194778,8,Baik,Ya,Ya,Tidak
+1754,18,L,Jakarta,8,1207054,9,Sangat Baik,Tidak,Ya,Tidak
+3327,64,L,Surabaya,31,3236665,9,Baik,Tidak,Ya,Puas
+1635,21,P,Surabaya,24,4152399,2,Baik,Ya,Tidak,Puas
+5132,46,P,Medan,14,4648716,9,Buruk,Ya,Ya,Puas
+1594,40,L,Bandung,48,3740527,9,Buruk,Ya,Tidak,Puas
+7131,23,L,Bandung,9,2415520,2,Sangat Baik,Tidak,Ya,Puas
+9591,40,P,Surabaya,8,4896439,9,Sangat Baik,Ya,Tidak,Puas
+5756,62,L,Bandung,24,1427325,6,Cukup,Ya,Ya,Tidak
+2307,18,P,Surabaya,34,1903406,1,Buruk,Ya,Tidak,Puas
+7926,60,L,Surabaya,46,2006570,6,Buruk,Ya,Ya,Puas
+7461,63,P,Bandung,46,576452,7,Cukup,Ya,Ya,Puas
+7324,38,P,Medan,33,972959,1,Baik,Ya,Ya,Tidak
+2147,36,L,Surabaya,10,397443,1,Buruk,Tidak,Tidak,Tidak
+6615,36,P,Surabaya,36,2272298,5,Buruk,Tidak,Tidak,Puas
+2522,48,P,Jakarta,28,4042889,4,Cukup,Tidak,Ya,Puas
+5799,28,P,Surabaya,34,1129761,2,Sangat Baik,Tidak,Tidak,Puas
+9398,64,P,Surabaya,33,4661867,5,Cukup,Ya,Tidak,Puas
+1353,30,P,Surabaya,10,3196046,4,Baik,Tidak,Ya,Tidak
+6671,44,P,Medan,23,2444515,4,Cukup,Tidak,Ya,Puas
+9853,50,P,Surabaya,29,778974,6,Sangat Baik,Ya,Ya,Puas
+3387,58,P,Medan,27,3709329,2,Cukup,Tidak,Ya,Puas
+1349,26,P,Jakarta,28,1176564,5,Buruk,Ya,Tidak,Tidak
+9960,24,L,Jakarta,8,3685245,7,Sangat Baik,Ya,Ya,Puas
+1131,50,L,Medan,41,4075948,7,Buruk,Tidak,Tidak,Puas
+2489,56,L,Medan,32,3899568,9,Cukup,Ya,Tidak,Tidak
+7542,56,P,Surabaya,45,273378,2,Cukup,Ya,Tidak,Puas
+3467,46,P,Jakarta,13,2229712,8,Buruk,Ya,Tidak,Puas
+5780,45,L,Medan,34,3525717,3,Cukup,Tidak,Ya,Tidak
+4749,59,P,Surabaya,33,3608608,8,Buruk,Tidak,Ya,Puas
+3416,56,L,Jakarta,34,1311968,3,Cukup,Tidak,Tidak,Puas
+3478,56,P,Medan,32,919003,3,Sangat Baik,Ya,Ya,Tidak
+1568,63,P,Surabaya,25,454343,3,Cukup,Tidak,Tidak,Puas
+7666,18,P,Medan,11,795861,7,Cukup,Ya,Tidak,Tidak
+7946,51,L,Surabaya,17,3815332,8,Baik,Ya,Tidak,Puas
+7527,46,P,Surabaya,27,2657322,5,Cukup,Tidak,Ya,Puas
+8119,21,P,Bandung,6,462132,6,Sangat Baik,Ya,Ya,Tidak
+2690,56,P,Bandung,25,1050149,5,Sangat Baik,Tidak,Tidak,Puas
+5935,47,P,Jakarta,46,4928663,6,Baik,Ya,Tidak,Tidak
+6455,39,L,Surabaya,3,1283386,3,Buruk,Tidak,Ya,Tidak
+5178,36,L,Jakarta,15,2695843,9,Buruk,Ya,Ya,Tidak
+9700,60,L,Surabaya,40,1621218,1,Cukup,Ya,Ya,Puas
+2916,61,L,Bandung,48,4671048,5,Buruk,Tidak,Tidak,Tidak
+6802,23,P,Bandung,32,258579,7,Baik,Tidak,Ya,Tidak
+7427,31,P,Jakarta,40,1458518,6,Buruk,Ya,Ya,Tidak
+2117,52,P,Bandung,8,3344769,5,Baik,Tidak,Ya,Puas
+8287,46,L,Jakarta,46,2506440,6,Sangat Baik,Ya,Tidak,Tidak
+9093,29,L,Medan,19,4150794,3,Baik,Ya,Ya,Puas
+8737,44,P,Jakarta,49,3609056,8,Cukup,Ya,Ya,Puas
+3500,54,L,Surabaya,2,2773353,7,Cukup,Tidak,Tidak,Tidak
+1361,36,L,Bandung,39,3713690,9,Sangat Baik,Tidak,Tidak,Puas
+5157,26,L,Jakarta,36,2078083,3,Sangat Baik,Tidak,Ya,Puas
+4795,35,P,Medan,24,2154961,6,Buruk,Ya,Ya,Puas
+2152,27,L,Bandung,25,3588515,2,Sangat Baik,Ya,Ya,Tidak
+5672,24,P,Surabaya,17,1569248,4,Baik,Ya,Ya,Tidak
+5112,56,L,Bandung,27,2845760,7,Buruk,Tidak,Tidak,Tidak
+2654,25,P,Jakarta,33,1551179,6,Cukup,Ya,Ya,Tidak
+4825,41,P,Surabaya,22,530824,3,Buruk,Ya,Ya,Puas
+1403,43,L,Surabaya,3,2168352,6,Sangat Baik,Ya,Ya,Tidak
+4526,35,L,Medan,48,3281325,3,Sangat Baik,Tidak,Tidak,Puas
+3892,63,L,Bandung,28,4886886,9,Buruk,Ya,Ya,Puas
+1064,21,P,Jakarta,6,4521867,4,Sangat Baik,Tidak,Tidak,Tidak
+5570,18,P,Surabaya,45,3190346,1,Baik,Tidak,Ya,Puas
+4183,47,P,Jakarta,1,2900623,8,Baik,Tidak,Ya,Tidak
+4562,34,L,Surabaya,37,3932202,2,Sangat Baik,Ya,Ya,Puas
+3843,54,P,Jakarta,45,4702472,2,Sangat Baik,Tidak,Tidak,Tidak
+7469,35,L,Jakarta,24,1819376,8,Buruk,Tidak,Ya,Tidak
+8145,36,L,Medan,32,2068980,1,Cukup,Tidak,Tidak,Tidak
+3778,39,L,Jakarta,29,519542,6,Baik,Tidak,Ya,Puas
+5412,25,L,Medan,37,3820433,5,Baik,Ya,Ya,Tidak
+3017,55,P,Bandung,5,2089067,3,Buruk,Ya,Tidak,Tidak
+7879,28,P,Jakarta,7,1836433,9,Sangat Baik,Tidak,Ya,Tidak
+9346,42,L,Jakarta,30,3516774,6,Cukup,Tidak,Ya,Tidak
+1003,28,L,Bandung,19,2578512,8,Sangat Baik,Tidak,Tidak,Tidak
+6702,21,P,Medan,26,1948460,4,Buruk,Ya,Ya,Tidak
+5723,21,L,Surabaya,19,157026,8,Cukup,Tidak,Tidak,Puas
+9506,61,P,Surabaya,47,3027506,9,Cukup,Tidak,Ya,Tidak
+8694,60,L,Jakarta,10,247212,4,Buruk,Ya,Tidak,Puas
+4854,27,P,Jakarta,43,3749522,6,Buruk,Ya,Ya,Tidak
+9466,57,P,Medan,49,3008737,9,Cukup,Tidak,Tidak,Tidak
+3083,61,P,Bandung,12,3423895,3,Cukup,Tidak,Ya,Puas
+1241,26,L,Bandung,1,1091011,1,Cukup,Ya,Ya,Tidak
+3448,43,P,Surabaya,49,2542463,3,Baik,Ya,Ya,Puas
+9389,28,L,Surabaya,20,3129546,2,Cukup,Ya,Ya,Puas
+8286,23,P,Bandung,35,4216955,5,Sangat Baik,Tidak,Tidak,Puas
+1256,51,L,Jakarta,12,167358,6,Cukup,Ya,Ya,Tidak
+3164,40,P,Surabaya,41,2930192,2,Cukup,Tidak,Ya,Puas
+6836,22,L,Medan,28,2643347,2,Sangat Baik,Ya,Tidak,Puas
+9766,24,L,Medan,15,4440114,6,Buruk,Ya,Tidak,Puas
+5230,26,P,Surabaya,49,1331590,7,Sangat Baik,Tidak,Tidak,Tidak
+2656,26,P,Surabaya,17,1739554,3,Sangat Baik,Tidak,Ya,Tidak
+9982,49,L,Medan,48,4626834,3,Cukup,Ya,Ya,Puas
+1953,46,L,Surabaya,16,4447476,4,Buruk,Ya,Tidak,Puas
+2090,23,P,Bandung,33,1247800,3,Sangat Baik,Tidak,Tidak,Tidak
+6621,45,L,Jakarta,14,4023418,7,Sangat Baik,Ya,Tidak,Tidak
+5136,59,P,Surabaya,41,4065948,8,Cukup,Ya,Tidak,Puas
+4944,25,P,Medan,37,248128,3,Sangat Baik,Ya,Ya,Tidak
+8937,35,P,Bandung,24,1407423,1,Buruk,Tidak,Tidak,Puas
+7711,49,L,Jakarta,29,1343104,4,Cukup,Ya,Ya,Puas
+2748,20,L,Surabaya,23,1931510,9,Buruk,Ya,Ya,Tidak
+5391,46,P,Surabaya,19,373790,6,Buruk,Ya,Tidak,Puas
+9040,46,P,Medan,17,1075475,7,Sangat Baik,Ya,Ya,Tidak
+5636,50,L,Surabaya,42,3023312,8,Baik,Ya,Tidak,Tidak
+7528,23,P,Bandung,43,709796,2,Buruk,Tidak,Tidak,Puas
+4304,37,L,Jakarta,16,113381,9,Cukup,Tidak,Tidak,Puas
+3926,29,L,Surabaya,25,4549057,9,Baik,Ya,Tidak,Puas
+3199,31,P,Surabaya,6,1679166,9,Baik,Ya,Tidak,Puas
+1418,22,L,Medan,39,835575,1,Sangat Baik,Ya,Ya,Tidak
+8024,34,L,Bandung,2,1557154,9,Buruk,Ya,Ya,Tidak
+2376,55,L,Medan,42,3134293,6,Buruk,Tidak,Ya,Tidak
+2074,21,L,Medan,2,2182925,5,Baik,Tidak,Tidak,Tidak
+5431,48,P,Jakarta,14,3482879,5,Baik,Ya,Tidak,Puas
+5017,64,P,Jakarta,19,2334140,1,Sangat Baik,Tidak,Ya,Tidak
+5575,37,P,Bandung,5,2890875,8,Baik,Ya,Ya,Tidak
+8703,25,P,Jakarta,25,3444379,3,Cukup,Ya,Tidak,Puas
+5864,35,P,Surabaya,36,4658839,3,Cukup,Tidak,Ya,Puas
+7173,43,L,Surabaya,24,497774,6,Cukup,Ya,Ya,Tidak
+7805,19,P,Medan,28,875965,5,Cukup,Tidak,Ya,Tidak
+8532,59,P,Medan,34,974665,2,Cukup,Ya,Tidak,Tidak
+4083,33,P,Medan,24,2231198,1,Baik,Tidak,Tidak,Tidak
+2642,37,L,Surabaya,8,3524854,6,Sangat Baik,Ya,Tidak,Puas
+3793,61,P,Surabaya,20,3581748,4,Baik,Ya,Ya,Tidak
+5122,38,P,Jakarta,17,2548972,1,Buruk,Ya,Tidak,Tidak
+1251,25,P,Jakarta,31,1332606,7,Baik,Tidak,Ya,Puas
+7123,27,P,Bandung,6,1502465,4,Sangat Baik,Tidak,Ya,Puas
+1544,45,P,Medan,39,2567956,7,Cukup,Tidak,Tidak,Puas
+3274,28,P,Medan,28,103154,6,Baik,Tidak,Tidak,Puas
+4886,27,L,Surabaya,2,1623724,5,Baik,Tidak,Tidak,Puas
+1317,34,L,Medan,27,549345,4,Baik,Ya,Ya,Tidak
+9466,37,L,Jakarta,37,177778,4,Buruk,Tidak,Ya,Puas
+2469,53,L,Jakarta,21,4622278,8,Baik,Ya,Tidak,Puas
+7903,34,P,Jakarta,41,3316046,8,Sangat Baik,Ya,Ya,Tidak
+4976,26,L,Medan,17,2357696,8,Sangat Baik,Ya,Tidak,Puas
+3315,56,L,Medan,44,4365174,4,Sangat Baik,Tidak,Ya,Tidak
+1179,29,L,Surabaya,29,1512956,3,Baik,Ya,Tidak,Tidak
+8898,37,P,Bandung,5,2225868,1,Baik,Ya,Tidak,Tidak
+3597,36,L,Surabaya,7,1445689,3,Buruk,Tidak,Ya,Puas
+5978,57,L,Surabaya,22,841699,8,Sangat Baik,Ya,Ya,Tidak
+4789,18,P,Bandung,44,874598,5,Sangat Baik,Ya,Ya,Tidak
+1137,53,P,Surabaya,4,4095831,9,Cukup,Ya,Ya,Puas
+6389,26,P,Jakarta,38,4455358,1,Baik,Ya,Ya,Puas
+5412,39,P,Bandung,18,3852822,7,Sangat Baik,Ya,Ya,Tidak
+9392,18,P,Surabaya,37,3690332,4,Cukup,Tidak,Ya,Puas
+4140,40,L,Jakarta,48,1467607,4,Buruk,Tidak,Ya,Puas
+8237,49,P,Bandung,43,473718,6,Sangat Baik,Ya,Tidak,Tidak
+2577,36,P,Medan,11,4360204,7,Buruk,Ya,Ya,Puas
+3610,32,P,Bandung,7,918916,3,Buruk,Ya,Ya,Puas
+5343,45,P,Surabaya,5,3588803,6,Buruk,Tidak,Tidak,Puas
+9171,64,P,Jakarta,37,2324499,6,Sangat Baik,Ya,Tidak,Puas
+6716,32,L,Bandung,16,2303829,9,Baik,Ya,Ya,Puas
+9016,22,P,Medan,13,2883559,7,Cukup,Tidak,Ya,Tidak
+3999,35,P,Bandung,39,3588286,8,Sangat Baik,Tidak,Ya,Tidak
+3903,44,L,Surabaya,23,3585874,2,Buruk,Ya,Ya,Puas
+5518,37,L,Medan,4,3207181,8,Cukup,Tidak,Ya,Tidak
+3793,38,P,Surabaya,39,707344,5,Sangat Baik,Tidak,Tidak,Puas
+3687,18,P,Bandung,39,4860550,2,Baik,Ya,Tidak,Tidak
+2759,64,P,Surabaya,16,2546318,6,Sangat Baik,Ya,Tidak,Tidak
+1064,20,P,Surabaya,45,1402541,1,Buruk,Tidak,Tidak,Puas
+7867,18,L,Jakarta,30,98499,8,Baik,Tidak,Tidak,Puas
+9687,59,P,Jakarta,48,3062858,4,Buruk,Ya,Tidak,Puas
+3121,52,P,Jakarta,26,2302184,8,Sangat Baik,Tidak,Tidak,Puas
+7135,44,P,Surabaya,42,322640,4,Sangat Baik,Ya,Tidak,Tidak
+6205,32,L,Bandung,28,4648097,2,Cukup,Ya,Ya,Tidak
+5411,61,L,Medan,7,1724615,5,Sangat Baik,Ya,Ya,Tidak
+1147,50,P,Medan,49,2171417,8,Sangat Baik,Tidak,Tidak,Puas
+6959,31,P,Medan,6,2164494,5,Sangat Baik,Tidak,Ya,Tidak
+3015,49,L,Jakarta,17,1239382,3,Baik,Tidak,Tidak,Puas
+8079,55,P,Surabaya,4,1425707,3,Sangat Baik,Ya,Tidak,Puas
+5925,24,L,Surabaya,14,4486417,9,Cukup,Ya,Tidak,Puas
+6123,48,L,Surabaya,3,1808942,6,Cukup,Tidak,Tidak,Puas
+9395,56,P,Bandung,3,4794034,8,Sangat Baik,Ya,Tidak,Puas
+5255,46,L,Jakarta,9,4120974,8,Buruk,Ya,Ya,Puas
+3483,56,P,Medan,15,1182251,7,Baik,Tidak,Tidak,Puas
+8751,38,P,Bandung,7,596594,5,Buruk,Tidak,Ya,Tidak
+6076,40,P,Bandung,44,4295038,2,Buruk,Ya,Ya,Tidak
+9432,21,L,Surabaya,13,2138032,5,Sangat Baik,Tidak,Tidak,Tidak
+6072,41,P,Jakarta,28,1706837,2,Sangat Baik,Ya,Tidak,Puas
+1222,25,L,Surabaya,35,4332747,6,Cukup,Tidak,Tidak,Tidak
+9039,59,L,Medan,12,3368941,4,Baik,Tidak,Tidak,Tidak
+3786,48,P,Bandung,42,3489236,4,Sangat Baik,Tidak,Tidak,Puas
+8938,42,L,Surabaya,7,2730682,8,Buruk,Ya,Ya,Puas
+9865,56,P,Jakarta,35,2060816,5,Sangat Baik,Tidak,Ya,Puas
+7347,61,P,Bandung,23,2473513,5,Buruk,Tidak,Tidak,Puas
+9915,28,L,Jakarta,25,713755,2,Cukup,Ya,Ya,Tidak
+5641,32,P,Bandung,22,1875035,3,Baik,Tidak,Ya,Tidak
+8580,59,P,Jakarta,16,1322689,6,Buruk,Ya,Tidak,Puas
+5330,28,P,Bandung,1,476998,8,Cukup,Ya,Tidak,Tidak
+6786,19,P,Bandung,22,3789047,3,Baik,Tidak,Ya,Puas
+1454,28,P,Surabaya,37,2137493,4,Buruk,Tidak,Tidak,Tidak
+8428,49,L,Surabaya,20,3175288,2,Cukup,Tidak,Tidak,Puas
+4156,63,P,Surabaya,43,4191782,9,Baik,Tidak,Tidak,Tidak
+9270,50,P,Bandung,8,3430212,7,Cukup,Ya,Ya,Puas
+9966,49,L,Surabaya,48,2118265,1,Sangat Baik,Ya,Tidak,Puas
+9009,33,L,Surabaya,26,2415198,7,Sangat Baik,Ya,Ya,Puas
+6529,56,P,Medan,12,4731551,4,Buruk,Tidak,Ya,Puas
+1428,60,P,Bandung,24,4389197,1,Sangat Baik,Ya,Tidak,Tidak
+3213,36,P,Jakarta,3,2851311,5,Sangat Baik,Ya,Tidak,Puas
+5141,50,L,Bandung,6,1256759,9,Sangat Baik,Ya,Ya,Puas
+4782,46,L,Bandung,30,2180163,2,Buruk,Ya,Ya,Tidak
+7206,57,L,Surabaya,6,680736,4,Sangat Baik,Ya,Ya,Puas
+4960,32,L,Surabaya,34,2903372,4,Buruk,Tidak,Ya,Puas
+6614,32,L,Bandung,7,1363699,5,Buruk,Ya,Ya,Puas
+7770,60,L,Surabaya,45,3553953,3,Baik,Tidak,Tidak,Tidak
+2822,58,P,Bandung,24,4362654,3,Buruk,Tidak,Tidak,Tidak
+8150,36,L,Medan,35,549328,7,Baik,Tidak,Ya,Tidak
+5053,50,L,Bandung,40,977036,6,Sangat Baik,Tidak,Ya,Tidak
+8429,59,L,Medan,37,2570283,1,Baik,Ya,Tidak,Puas
+5489,57,P,Jakarta,16,1570956,8,Cukup,Tidak,Tidak,Tidak
+5260,26,L,Medan,13,318084,6,Baik,Ya,Tidak,Puas
+4694,57,P,Medan,31,1418686,3,Baik,Ya,Ya,Puas
+1488,25,L,Bandung,5,1911744,6,Buruk,Ya,Ya,Tidak
+9451,34,L,Medan,39,3162143,7,Buruk,Tidak,Tidak,Tidak
+6457,58,L,Bandung,26,763210,5,Baik,Tidak,Tidak,Tidak
+5880,47,P,Jakarta,30,4613109,6,Baik,Tidak,Tidak,Puas
+7461,60,P,Bandung,9,1012345,7,Buruk,Tidak,Tidak,Puas
+7878,36,L,Medan,3,4146572,8,Buruk,Ya,Tidak,Puas
+2151,32,P,Surabaya,27,3086184,1,Sangat Baik,Tidak,Tidak,Tidak
+2296,54,P,Medan,7,698533,6,Baik,Ya,Ya,Tidak
+3002,19,P,Medan,25,2034771,4,Sangat Baik,Tidak,Tidak,Puas
+3921,46,P,Jakarta,12,2902327,2,Sangat Baik,Tidak,Tidak,Tidak
+6343,33,P,Jakarta,9,1432182,6,Sangat Baik,Tidak,Ya,Tidak
+8476,50,L,Surabaya,32,802949,4,Sangat Baik,Tidak,Tidak,Puas
+4160,57,P,Bandung,35,2248414,7,Sangat Baik,Tidak,Tidak,Tidak
+6616,29,P,Jakarta,49,635982,2,Cukup,Ya,Ya,Puas
+7296,59,P,Bandung,15,3132091,4,Cukup,Ya,Tidak,Tidak
+4004,30,L,Jakarta,24,71493,3,Cukup,Tidak,Tidak,Puas
+4506,31,L,Jakarta,23,3756236,1,Cukup,Tidak,Tidak,Tidak
+8693,30,P,Surabaya,29,3371907,2,Buruk,Tidak,Ya,Tidak
+9485,50,P,Jakarta,8,3463991,3,Buruk,Tidak,Ya,Tidak
+7196,36,L,Medan,13,1348071,2,Baik,Ya,Tidak,Puas
+7719,33,L,Medan,26,134416,1,Sangat Baik,Tidak,Ya,Tidak
+6500,43,L,Bandung,21,686764,4,Cukup,Ya,Ya,Tidak
+1216,21,P,Surabaya,44,4906252,5,Sangat Baik,Tidak,Tidak,Tidak
+2878,59,L,Surabaya,35,3327853,2,Baik,Tidak,Tidak,Tidak
+2885,64,P,Medan,13,3469574,1,Baik,Ya,Tidak,Puas
+1671,62,P,Jakarta,1,3520851,2,Buruk,Tidak,Tidak,Tidak
+5627,55,L,Jakarta,46,1141772,8,Cukup,Tidak,Tidak,Tidak
+6606,51,L,Surabaya,46,79168,3,Sangat Baik,Tidak,Ya,Tidak
+8328,47,L,Surabaya,19,514354,7,Sangat Baik,Ya,Ya,Tidak
+5262,60,P,Bandung,27,4578597,2,Cukup,Tidak,Tidak,Tidak
+6195,44,P,Medan,45,4131201,8,Cukup,Tidak,Tidak,Tidak
+8784,47,L,Medan,29,4754322,1,Sangat Baik,Tidak,Ya,Puas
+5102,24,L,Surabaya,38,2446454,2,Cukup,Ya,Ya,Tidak
+9690,48,P,Jakarta,15,3339430,4,Cukup,Ya,Tidak,Puas
+4776,53,P,Medan,9,3677297,8,Buruk,Ya,Ya,Puas
+2403,58,L,Jakarta,13,1592589,3,Cukup,Ya,Ya,Tidak
+4537,47,P,Bandung,19,2084293,8,Cukup,Tidak,Tidak,Tidak
+1087,39,L,Surabaya,14,3472316,7,Buruk,Ya,Ya,Puas
+5668,30,L,Surabaya,10,1581200,4,Sangat Baik,Tidak,Ya,Tidak
+7615,32,L,Medan,26,3482271,7,Buruk,Tidak,Tidak,Puas
+3529,29,L,Bandung,1,744816,2,Baik,Ya,Tidak,Tidak
+9451,42,P,Jakarta,48,1046512,5,Buruk,Ya,Tidak,Puas
+9306,52,L,Surabaya,29,2971963,6,Buruk,Ya,Tidak,Tidak
+3139,41,L,Jakarta,25,4660594,3,Baik,Tidak,Ya,Puas
+9025,28,L,Jakarta,11,528414,9,Sangat Baik,Tidak,Tidak,Puas
+7145,54,P,Medan,40,3477749,1,Cukup,Tidak,Tidak,Tidak
+2876,57,L,Bandung,44,1393175,2,Sangat Baik,Tidak,Tidak,Puas
+9830,19,L,Medan,41,1994596,7,Buruk,Tidak,Tidak,Puas
+3424,21,L,Surabaya,43,3199812,6,Cukup,Ya,Ya,Puas
+2593,36,P,Bandung,42,148070,3,Sangat Baik,Tidak,Ya,Puas
+2069,62,P,Medan,29,530780,5,Sangat Baik,Tidak,Ya,Tidak
+8396,39,P,Medan,39,3331414,5,Sangat Baik,Ya,Tidak,Tidak
+5745,51,P,Jakarta,20,1690888,6,Cukup,Ya,Ya,Puas
+6501,59,L,Jakarta,17,3176617,9,Sangat Baik,Ya,Tidak,Tidak
+5132,21,P,Jakarta,16,4728316,5,Baik,Tidak,Tidak,Puas
+7174,38,P,Jakarta,16,131453,3,Sangat Baik,Ya,Tidak,Tidak
+4987,58,L,Surabaya,11,318870,6,Cukup,Ya,Tidak,Puas
+6792,22,P,Jakarta,35,1964064,8,Cukup,Ya,Ya,Puas
+2119,26,L,Bandung,17,2179730,6,Baik,Ya,Ya,Tidak
+6483,28,P,Jakarta,42,702147,1,Cukup,Ya,Ya,Tidak
+8571,48,P,Surabaya,4,4527720,6,Baik,Tidak,Ya,Tidak
+2283,56,P,Bandung,37,4221514,9,Buruk,Ya,Ya,Tidak
+7541,35,P,Bandung,6,3858297,6,Buruk,Tidak,Ya,Tidak
+1177,44,P,Medan,49,4357100,2,Cukup,Ya,Ya,Tidak
+7716,44,L,Surabaya,39,2007655,6,Buruk,Tidak,Ya,Tidak
+7908,51,P,Medan,36,2617914,5,Baik,Ya,Ya,Puas
+3120,30,L,Medan,6,3824590,3,Baik,Ya,Tidak,Puas
+8639,64,P,Medan,32,1793484,7,Buruk,Ya,Tidak,Puas
+6908,18,P,Medan,18,4528381,5,Sangat Baik,Ya,Ya,Tidak
+3514,44,P,Medan,8,4937420,9,Cukup,Ya,Tidak,Tidak
+5580,40,P,Medan,3,3547708,1,Baik,Tidak,Tidak,Tidak
+6940,63,P,Surabaya,7,1121482,4,Buruk,Ya,Ya,Puas
+6583,18,L,Medan,3,1107986,3,Baik,Tidak,Tidak,Puas
+2641,59,P,Jakarta,13,3184340,8,Baik,Ya,Ya,Puas
+3516,46,P,Surabaya,44,1690756,7,Sangat Baik,Ya,Tidak,Tidak
+7141,51,P,Surabaya,5,2645024,1,Cukup,Tidak,Tidak,Tidak
+3587,62,L,Bandung,19,4809005,8,Buruk,Tidak,Ya,Tidak
+5396,35,P,Medan,12,2395401,3,Buruk,Ya,Tidak,Puas
+6774,59,L,Surabaya,10,4052841,2,Cukup,Ya,Ya,Puas
+1601,21,L,Surabaya,16,259283,9,Baik,Ya,Tidak,Tidak
+8674,31,P,Jakarta,1,1548908,3,Buruk,Tidak,Tidak,Tidak
+7339,55,L,Medan,30,814202,3,Baik,Tidak,Tidak,Tidak
+3228,34,L,Medan,24,4993110,7,Buruk,Ya,Ya,Puas
+9571,30,P,Surabaya,20,4017008,8,Baik,Ya,Tidak,Tidak
+3145,54,P,Surabaya,16,1332833,2,Buruk,Tidak,Ya,Puas
+4275,42,P,Jakarta,26,2967261,8,Baik,Ya,Ya,Puas
+9801,53,P,Medan,29,4405663,9,Baik,Tidak,Ya,Tidak
+3925,54,L,Jakarta,35,2669856,1,Cukup,Tidak,Ya,Tidak
+1830,41,P,Medan,35,4364670,4,Baik,Ya,Ya,Puas
+6246,51,L,Medan,19,3992950,4,Buruk,Ya,Ya,Puas
+4631,34,L,Medan,15,4909108,9,Sangat Baik,Ya,Tidak,Tidak
+9982,56,L,Jakarta,49,4259030,4,Sangat Baik,Tidak,Tidak,Tidak
+8953,28,L,Bandung,11,1834315,5,Baik,Ya,Ya,Tidak
+9388,63,L,Jakarta,15,3595002,3,Sangat Baik,Tidak,Tidak,Tidak
+8909,58,L,Bandung,36,2744181,5,Cukup,Tidak,Tidak,Puas
+3528,63,P,Jakarta,11,4137812,3,Buruk,Ya,Ya,Puas
+2629,41,P,Medan,2,3974118,9,Sangat Baik,Ya,Ya,Puas
+7083,30,P,Medan,36,205906,4,Baik,Ya,Tidak,Tidak
+6207,63,L,Jakarta,33,3369134,7,Cukup,Ya,Tidak,Tidak
+3913,54,P,Bandung,3,4346853,4,Baik,Tidak,Ya,Puas
+4833,28,P,Surabaya,39,4108141,5,Sangat Baik,Tidak,Tidak,Tidak
+5058,28,P,Surabaya,11,97099,5,Baik,Tidak,Ya,Tidak
+8423,20,L,Medan,48,2006942,8,Cukup,Ya,Tidak,Tidak
+4283,51,L,Bandung,38,2701828,9,Sangat Baik,Ya,Ya,Tidak
+4041,18,L,Medan,12,640915,2,Sangat Baik,Ya,Ya,Puas
+2055,32,L,Surabaya,7,3902250,9,Baik,Ya,Ya,Tidak
+2606,49,P,Medan,6,4183684,2,Sangat Baik,Tidak,Ya,Puas
+9992,39,L,Jakarta,42,1197902,1,Cukup,Ya,Tidak,Puas
+4021,30,L,Surabaya,7,3669651,1,Cukup,Tidak,Ya,Tidak
+4205,28,P,Medan,19,3075313,7,Sangat Baik,Ya,Tidak,Tidak
+4460,43,L,Medan,37,1371115,3,Cukup,Tidak,Ya,Tidak
+2396,42,L,Bandung,46,4686381,6,Buruk,Tidak,Tidak,Puas
+4641,50,P,Bandung,38,2901169,3,Baik,Ya,Ya,Puas
+9847,33,L,Jakarta,44,2353105,7,Sangat Baik,Tidak,Ya,Puas
+2427,56,L,Medan,41,3597393,2,Buruk,Tidak,Tidak,Tidak
+5226,50,P,Jakarta,35,4428376,6,Baik,Ya,Ya,Puas
+6002,36,L,Surabaya,40,2852780,3,Sangat Baik,Ya,Ya,Puas
+1684,26,L,Medan,37,2591538,9,Baik,Ya,Ya,Tidak
+7006,43,P,Medan,45,141126,8,Sangat Baik,Tidak,Ya,Tidak
+3289,46,P,Bandung,18,795744,2,Buruk,Ya,Ya,Tidak
+9623,48,P,Medan,25,970238,9,Buruk,Tidak,Ya,Puas
+6140,44,L,Jakarta,30,2364655,7,Buruk,Ya,Tidak,Puas
+2637,24,P,Surabaya,49,2380468,7,Cukup,Tidak,Tidak,Puas
+5965,63,L,Jakarta,13,4221298,7,Cukup,Tidak,Ya,Tidak
+9742,54,P,Jakarta,31,4234278,8,Cukup,Tidak,Ya,Puas
+7446,42,P,Surabaya,36,1571757,6,Baik,Tidak,Ya,Tidak
+5155,35,L,Surabaya,37,295830,2,Baik,Tidak,Ya,Puas
+6073,37,P,Surabaya,20,1887221,7,Cukup,Tidak,Ya,Puas
+4609,47,L,Jakarta,26,3061242,8,Cukup,Ya,Tidak,Tidak
+9152,36,L,Bandung,8,4383366,9,Cukup,Tidak,Tidak,Tidak
+4409,46,P,Surabaya,17,1142289,7,Baik,Tidak,Ya,Puas
+2855,20,P,Bandung,28,4035519,1,Baik,Tidak,Tidak,Puas
+2349,24,P,Jakarta,37,2322655,3,Buruk,Tidak,Ya,Tidak
+9978,56,P,Bandung,46,3530252,8,Buruk,Ya,Ya,Tidak
+8222,44,L,Jakarta,47,1098455,7,Cukup,Tidak,Tidak,Puas
+2593,18,L,Bandung,42,1187473,1,Baik,Ya,Tidak,Tidak
+5033,49,P,Bandung,10,4604949,3,Baik,Tidak,Ya,Puas
+6860,18,L,Medan,7,900403,6,Sangat Baik,Tidak,Ya,Puas
+3822,44,L,Jakarta,18,4114147,6,Cukup,Ya,Ya,Tidak
+5063,27,L,Medan,20,4636341,3,Cukup,Ya,Tidak,Tidak
+8736,23,L,Surabaya,36,4654377,8,Baik,Ya,Tidak,Puas
+2057,62,P,Jakarta,6,421859,5,Buruk,Tidak,Ya,Puas
+8542,48,P,Bandung,17,3505422,1,Cukup,Tidak,Ya,Tidak
+8642,55,L,Surabaya,6,3274152,5,Baik,Tidak,Ya,Tidak
+1283,64,P,Surabaya,5,1482326,2,Sangat Baik,Tidak,Ya,Puas
+7459,18,P,Medan,28,4835537,8,Sangat Baik,Tidak,Ya,Tidak
+2837,52,P,Jakarta,40,2920458,2,Buruk,Ya,Tidak,Tidak
+3896,52,P,Bandung,24,3699375,9,Cukup,Tidak,Ya,Tidak
+5684,37,L,Bandung,48,2688755,8,Sangat Baik,Ya,Ya,Tidak
+4251,56,L,Surabaya,13,294322,9,Buruk,Tidak,Tidak,Tidak
+1584,26,L,Jakarta,20,4402133,9,Baik,Ya,Ya,Tidak
+1744,42,P,Bandung,33,4534798,9,Cukup,Tidak,Ya,Puas
+9411,24,P,Medan,47,1880923,4,Sangat Baik,Tidak,Ya,Puas
+5383,31,L,Jakarta,35,4847025,2,Cukup,Ya,Ya,Tidak
+2024,25,P,Jakarta,12,1809008,7,Baik,Ya,Tidak,Tidak
+5820,37,P,Medan,47,4729777,9,Sangat Baik,Ya,Ya,Puas
+3171,25,L,Bandung,2,4123822,4,Cukup,Tidak,Ya,Tidak
+2914,52,P,Surabaya,45,3273181,4,Sangat Baik,Tidak,Ya,Tidak
+5258,41,L,Surabaya,37,1929773,2,Cukup,Ya,Ya,Puas
+4581,45,P,Bandung,1,792880,7,Sangat Baik,Ya,Tidak,Puas
+9982,21,L,Medan,12,898694,6,Sangat Baik,Ya,Ya,Puas
+4326,36,P,Bandung,24,906921,9,Cukup,Ya,Tidak,Tidak
+4636,60,L,Medan,16,3902613,6,Sangat Baik,Ya,Tidak,Puas
+9727,26,L,Bandung,49,504813,9,Cukup,Tidak,Tidak,Tidak
+5014,63,P,Jakarta,41,588633,7,Baik,Tidak,Tidak,Puas
+6554,64,P,Medan,6,4852195,5,Baik,Ya,Ya,Tidak
+4963,42,P,Jakarta,37,4447959,6,Cukup,Tidak,Ya,Tidak
+1855,63,L,Bandung,30,3951726,9,Sangat Baik,Ya,Tidak,Tidak
+7535,39,L,Bandung,37,4990668,3,Cukup,Ya,Ya,Tidak
+8310,61,L,Surabaya,19,215471,3,Buruk,Tidak,Ya,Tidak
+7843,64,L,Medan,11,2802276,5,Sangat Baik,Ya,Ya,Puas
+7193,54,L,Jakarta,3,3724988,3,Sangat Baik,Ya,Tidak,Puas
+4536,41,L,Surabaya,48,540327,2,Buruk,Tidak,Ya,Puas
+3437,36,L,Medan,41,3294825,1,Baik,Tidak,Tidak,Puas
+7286,35,P,Medan,10,3683945,6,Sangat Baik,Tidak,Tidak,Tidak
+8683,46,L,Medan,38,3006462,3,Buruk,Ya,Ya,Puas
+5980,39,L,Surabaya,26,2094156,3,Cukup,Ya,Tidak,Tidak
+9957,23,L,Surabaya,32,2333106,7,Sangat Baik,Ya,Tidak,Puas
+6105,43,P,Bandung,34,1495710,6,Buruk,Ya,Tidak,Puas
+8506,35,L,Bandung,11,1104488,9,Sangat Baik,Ya,Ya,Puas
+6129,39,L,Jakarta,39,3893027,1,Cukup,Tidak,Ya,Puas
+9401,42,L,Bandung,45,2599088,5,Buruk,Tidak,Ya,Tidak
+8045,60,L,Medan,30,1822248,5,Baik,Tidak,Tidak,Tidak
+3728,30,L,Jakarta,35,3910638,3,Baik,Tidak,Tidak,Tidak
+2217,60,P,Medan,30,1231471,5,Buruk,Ya,Ya,Tidak
+6589,23,P,Medan,12,684931,7,Cukup,Ya,Tidak,Puas
+9621,51,P,Jakarta,36,3173765,6,Cukup,Ya,Ya,Tidak
+4754,57,L,Medan,28,4873554,2,Buruk,Tidak,Tidak,Puas
+4997,25,P,Bandung,5,3348867,4,Cukup,Tidak,Tidak,Puas
+5262,24,L,Bandung,20,4443966,8,Cukup,Ya,Tidak,Tidak
+3704,64,P,Jakarta,46,4161831,6,Sangat Baik,Tidak,Tidak,Tidak
+2016,32,P,Medan,17,4953767,9,Sangat Baik,Ya,Tidak,Tidak
+3487,24,P,Bandung,6,2089087,2,Cukup,Ya,Ya,Tidak
+3052,21,P,Jakarta,40,1001156,9,Cukup,Tidak,Ya,Puas
+7281,52,P,Bandung,38,167877,3,Buruk,Tidak,Ya,Puas
+1005,18,L,Bandung,37,2144646,3,Baik,Ya,Ya,Tidak
+3712,47,L,Jakarta,34,1239384,6,Baik,Ya,Tidak,Tidak
+4980,49,P,Jakarta,33,544628,3,Cukup,Ya,Tidak,Puas
+7070,21,P,Surabaya,34,2411492,7,Baik,Tidak,Tidak,Puas
+3480,63,L,Medan,19,485711,4,Baik,Ya,Tidak,Tidak
+7813,49,P,Jakarta,15,4610257,6,Cukup,Tidak,Tidak,Tidak
+5390,21,P,Jakarta,3,4421553,3,Baik,Ya,Tidak,Puas
+5685,38,P,Medan,46,2520873,6,Cukup,Tidak,Tidak,Tidak
+2701,36,P,Surabaya,49,1505289,1,Buruk,Ya,Tidak,Tidak
+8458,45,P,Bandung,5,958753,9,Buruk,Ya,Ya,Tidak
+4148,54,L,Bandung,3,1672234,2,Cukup,Ya,Ya,Tidak
+8734,51,L,Surabaya,6,2915472,1,Buruk,Ya,Tidak,Puas
+4387,36,L,Bandung,33,4110158,9,Sangat Baik,Tidak,Tidak,Tidak
+3775,59,L,Surabaya,46,2849162,8,Sangat Baik,Ya,Tidak,Tidak
+8404,47,L,Jakarta,43,3765234,3,Cukup,Ya,Ya,Tidak
+1797,57,L,Surabaya,40,4264639,4,Baik,Tidak,Ya,Puas
+3419,39,L,Medan,49,3083004,7,Sangat Baik,Tidak,Ya,Puas
+5240,54,P,Jakarta,5,1891959,9,Sangat Baik,Tidak,Tidak,Tidak
+3222,28,P,Surabaya,15,2654854,5,Cukup,Ya,Tidak,Tidak
+9397,52,L,Surabaya,3,1839415,8,Cukup,Ya,Tidak,Tidak
+4792,19,P,Jakarta,21,238865,2,Baik,Ya,Tidak,Puas
+6061,18,L,Jakarta,49,50235,9,Buruk,Ya,Ya,Tidak
+2406,56,P,Bandung,31,4876177,1,Cukup,Ya,Ya,Puas
+5235,42,L,Bandung,43,2480078,8,Cukup,Tidak,Ya,Puas
+3527,63,P,Surabaya,25,1718462,1,Buruk,Tidak,Tidak,Tidak
+3237,18,L,Bandung,45,4502446,3,Baik,Ya,Tidak,Puas
+8097,18,P,Surabaya,38,992640,6,Sangat Baik,Ya,Ya,Puas
+1970,64,L,Medan,48,2061594,6,Cukup,Ya,Tidak,Puas
+4986,56,P,Bandung,2,4301130,1,Buruk,Tidak,Ya,Puas
+2091,60,P,Surabaya,37,4298411,5,Cukup,Ya,Tidak,Puas
+7459,38,L,Medan,36,4101390,2,Cukup,Tidak,Ya,Tidak
+3024,49,P,Jakarta,41,3976329,7,Cukup,Tidak,Ya,Puas
+2618,51,L,Medan,7,1171942,3,Sangat Baik,Tidak,Tidak,Tidak
+2641,24,L,Bandung,14,917851,4,Cukup,Tidak,Ya,Puas
+5620,40,P,Bandung,31,1614021,7,Cukup,Ya,Ya,Puas
+6429,37,P,Jakarta,26,1813370,5,Sangat Baik,Tidak,Tidak,Puas
+5947,30,L,Medan,9,4738130,2,Cukup,Tidak,Ya,Tidak
+2990,23,P,Jakarta,19,2886772,2,Cukup,Tidak,Ya,Puas
+9026,24,P,Surabaya,18,3954795,7,Baik,Tidak,Ya,Tidak
+2454,46,P,Medan,38,2623701,8,Sangat Baik,Tidak,Tidak,Tidak
+9885,34,L,Medan,43,3249507,1,Cukup,Ya,Tidak,Puas
+2592,58,L,Medan,41,1003275,9,Sangat Baik,Ya,Tidak,Tidak
+2153,20,P,Bandung,8,2581890,8,Baik,Ya,Ya,Tidak
+4620,40,P,Medan,43,4068932,6,Cukup,Ya,Ya,Puas
+8772,45,L,Jakarta,44,243755,8,Baik,Ya,Tidak,Tidak
+7672,20,L,Medan,23,1143955,1,Buruk,Tidak,Tidak,Tidak
+7773,38,P,Surabaya,18,1945732,5,Buruk,Ya,Tidak,Puas
+2400,32,P,Medan,39,3345952,2,Sangat Baik,Ya,Tidak,Puas
+9728,57,P,Bandung,24,1840535,3,Baik,Ya,Tidak,Tidak
+3035,42,L,Medan,2,3160913,6,Buruk,Tidak,Tidak,Tidak
+1693,36,P,Bandung,47,424346,6,Buruk,Ya,Tidak,Puas
+5862,48,P,Jakarta,49,4379613,4,Cukup,Tidak,Ya,Puas
+5656,27,P,Medan,49,2115345,7,Buruk,Ya,Tidak,Puas
+4688,63,L,Surabaya,17,596512,1,Baik,Ya,Tidak,Puas
+7506,37,P,Jakarta,44,2974114,1,Baik,Ya,Tidak,Tidak
+5664,58,L,Jakarta,29,904471,6,Cukup,Tidak,Tidak,Puas
+7963,18,L,Medan,20,3824843,1,Baik,Tidak,Ya,Tidak
+4989,25,L,Medan,12,1511516,4,Buruk,Tidak,Tidak,Puas
+4816,37,L,Medan,36,4252695,2,Baik,Ya,Ya,Tidak
+6015,54,P,Bandung,47,237557,7,Cukup,Tidak,Tidak,Tidak
+2155,44,L,Medan,38,649928,1,Cukup,Tidak,Ya,Tidak
+4898,56,L,Surabaya,15,1013222,5,Buruk,Tidak,Tidak,Tidak
+6982,28,P,Jakarta,16,285580,8,Cukup,Ya,Ya,Puas
+1311,42,L,Jakarta,29,988038,4,Baik,Ya,Ya,Puas
+4497,62,L,Medan,16,4673951,3,Buruk,Tidak,Tidak,Puas
+2530,45,P,Bandung,31,4756220,9,Baik,Ya,Tidak,Puas
+4854,49,L,Surabaya,29,515973,1,Sangat Baik,Tidak,Ya,Puas
+6181,51,P,Medan,10,3610564,5,Buruk,Ya,Tidak,Puas
+7159,18,L,Medan,47,1412362,5,Cukup,Tidak,Tidak,Puas
+8756,48,L,Bandung,42,3583853,9,Baik,Tidak,Ya,Tidak
+1090,51,L,Surabaya,40,276286,5,Sangat Baik,Ya,Ya,Puas
+8751,48,L,Surabaya,13,2873738,4,Buruk,Tidak,Tidak,Tidak
+8616,59,P,Surabaya,13,3195509,7,Sangat Baik,Tidak,Ya,Tidak
+4300,52,L,Medan,29,4812610,7,Sangat Baik,Tidak,Ya,Tidak
+5725,38,P,Surabaya,36,388592,9,Buruk,Tidak,Ya,Puas
+8280,63,L,Bandung,13,741158,1,Baik,Ya,Ya,Puas
+7677,57,P,Medan,22,4919039,7,Buruk,Ya,Tidak,Tidak
+9770,36,L,Surabaya,23,1134409,3,Cukup,Tidak,Tidak,Tidak
+9102,61,L,Medan,37,3480802,3,Baik,Ya,Ya,Puas
+4034,39,L,Medan,46,407683,4,Sangat Baik,Ya,Ya,Tidak
+4724,25,L,Surabaya,34,920106,1,Cukup,Ya,Ya,Puas
+5525,52,P,Surabaya,42,2722501,1,Cukup,Tidak,Tidak,Tidak
+9310,25,P,Surabaya,28,2846580,6,Cukup,Tidak,Ya,Puas
+4039,45,L,Jakarta,23,1687957,3,Baik,Tidak,Tidak,Tidak
+9867,23,P,Surabaya,4,4513725,5,Sangat Baik,Tidak,Tidak,Tidak
+5355,44,P,Jakarta,29,2319737,4,Sangat Baik,Ya,Tidak,Tidak
+7145,49,P,Bandung,47,4522831,9,Buruk,Ya,Tidak,Puas
+3922,28,P,Bandung,34,4977208,7,Cukup,Tidak,Tidak,Tidak
+2807,51,L,Surabaya,30,2267793,9,Sangat Baik,Tidak,Tidak,Tidak
+6028,64,P,Medan,21,337892,3,Sangat Baik,Tidak,Tidak,Tidak
+3538,63,P,Bandung,44,4953511,1,Buruk,Tidak,Tidak,Tidak
+9466,54,P,Medan,37,2060683,1,Sangat Baik,Ya,Ya,Tidak
+8116,52,L,Medan,45,912815,4,Baik,Ya,Ya,Tidak
+9085,37,P,Bandung,2,736163,9,Buruk,Ya,Ya,Puas
+2624,51,L,Medan,31,1707599,8,Sangat Baik,Tidak,Tidak,Puas
+4831,38,L,Jakarta,36,2252446,9,Sangat Baik,Tidak,Tidak,Tidak
+4674,60,L,Bandung,3,3207631,3,Cukup,Ya,Ya,Tidak
+2505,57,L,Medan,22,1561116,7,Cukup,Tidak,Ya,Tidak
+4662,33,P,Medan,30,4589488,2,Buruk,Ya,Tidak,Puas
+7507,26,L,Bandung,31,4527677,1,Buruk,Ya,Tidak,Puas
+6806,38,P,Medan,14,2628641,5,Cukup,Ya,Tidak,Puas
+2477,33,L,Surabaya,25,4919081,7,Sangat Baik,Tidak,Tidak,Tidak
+3034,24,L,Medan,47,349965,3,Cukup,Tidak,Tidak,Puas
+9990,29,L,Bandung,6,456737,9,Baik,Ya,Ya,Puas
+2865,58,L,Jakarta,39,4262962,4,Cukup,Ya,Tidak,Tidak
+7962,21,P,Bandung,4,1609210,2,Sangat Baik,Tidak,Ya,Puas
+2191,46,L,Surabaya,35,3023795,4,Sangat Baik,Tidak,Ya,Tidak
+2712,37,L,Bandung,6,4131761,5,Sangat Baik,Ya,Tidak,Tidak
+1747,31,L,Jakarta,39,1969414,6,Baik,Ya,Tidak,Tidak
+4437,26,P,Surabaya,22,2337328,2,Buruk,Tidak,Tidak,Puas
+5840,36,P,Surabaya,49,1271825,3,Buruk,Tidak,Ya,Tidak
+7062,55,L,Jakarta,9,4845896,4,Buruk,Ya,Tidak,Puas
+2608,53,P,Jakarta,29,2401441,6,Buruk,Ya,Tidak,Tidak
+4908,61,P,Bandung,36,825652,1,Cukup,Tidak,Tidak,Puas
+9269,58,L,Bandung,40,750219,6,Baik,Tidak,Ya,Puas
+9973,49,L,Jakarta,36,3759588,9,Cukup,Tidak,Tidak,Tidak
+7794,58,L,Bandung,8,1983078,8,Baik,Ya,Ya,Puas
+3238,53,P,Surabaya,9,2590605,3,Buruk,Tidak,Ya,Tidak
+6256,62,P,Jakarta,27,2241858,5,Baik,Tidak,Ya,Puas
+7179,41,P,Surabaya,40,404480,7,Baik,Ya,Ya,Puas
+1362,23,P,Medan,44,3337830,1,Baik,Ya,Ya,Puas
+3911,34,L,Surabaya,31,473445,1,Sangat Baik,Ya,Tidak,Tidak
+8702,58,P,Bandung,40,2920078,8,Baik,Tidak,Tidak,Tidak
+9237,57,P,Bandung,45,1313792,8,Sangat Baik,Tidak,Ya,Tidak
+6562,63,L,Medan,32,3717517,7,Cukup,Ya,Ya,Tidak
+2451,25,P,Surabaya,7,4404817,5,Cukup,Ya,Ya,Puas
+6281,49,L,Jakarta,1,454674,3,Sangat Baik,Ya,Ya,Puas
+8220,54,L,Bandung,17,3809388,6,Cukup,Tidak,Tidak,Puas
+1425,61,L,Jakarta,42,3535412,4,Baik,Ya,Ya,Puas
+7174,43,L,Jakarta,27,1375940,3,Buruk,Tidak,Tidak,Tidak
+4576,40,L,Jakarta,16,3336446,4,Baik,Ya,Tidak,Tidak
+8159,61,L,Medan,13,3824507,9,Cukup,Tidak,Tidak,Puas
+3773,46,P,Medan,4,2963167,5,Buruk,Ya,Ya,Puas
+2815,40,L,Surabaya,41,2838460,6,Buruk,Tidak,Ya,Puas
+4034,39,L,Surabaya,11,1136534,1,Buruk,Tidak,Tidak,Puas
+1145,33,L,Medan,1,1505602,3,Cukup,Tidak,Tidak,Puas
+2360,18,P,Surabaya,48,4694894,6,Cukup,Ya,Ya,Tidak
+1133,37,P,Surabaya,8,3118791,1,Cukup,Tidak,Ya,Puas
+2231,56,P,Jakarta,37,3325927,8,Baik,Tidak,Ya,Tidak
+7373,63,L,Jakarta,21,3264981,2,Sangat Baik,Ya,Ya,Puas
+3198,34,P,Surabaya,2,1526550,5,Cukup,Tidak,Tidak,Tidak
+8385,24,L,Surabaya,7,1776452,1,Sangat Baik,Tidak,Tidak,Puas
+3132,57,L,Jakarta,44,1679350,7,Sangat Baik,Tidak,Ya,Puas
+3111,25,L,Jakarta,42,2068117,2,Cukup,Ya,Ya,Tidak
+2261,39,L,Jakarta,43,4706488,7,Sangat Baik,Ya,Ya,Tidak
+5031,38,P,Medan,33,2620471,5,Cukup,Ya,Ya,Tidak
+8203,51,L,Jakarta,22,1705688,5,Baik,Ya,Ya,Tidak
+9153,42,L,Surabaya,44,4230072,8,Buruk,Tidak,Ya,Puas
+7603,32,P,Surabaya,24,4742767,5,Buruk,Ya,Ya,Tidak
+6771,54,P,Medan,12,4191097,9,Sangat Baik,Ya,Ya,Puas
+9133,39,P,Bandung,29,1841429,5,Cukup,Ya,Ya,Tidak
+4216,25,L,Jakarta,13,3820523,2,Buruk,Ya,Ya,Tidak
+6033,29,L,Jakarta,11,1989441,3,Buruk,Ya,Ya,Tidak
+8724,38,P,Jakarta,49,1831515,2,Baik,Tidak,Ya,Puas
+8439,23,L,Bandung,25,4342684,5,Baik,Tidak,Ya,Tidak
+7885,55,L,Surabaya,33,2872217,8,Sangat Baik,Tidak,Tidak,Puas
+3528,56,P,Bandung,35,3236090,4,Sangat Baik,Ya,Tidak,Tidak
+3359,37,L,Jakarta,39,2485857,4,Baik,Ya,Ya,Puas
+7248,36,P,Bandung,10,1525780,8,Baik,Tidak,Tidak,Puas
+8649,37,P,Jakarta,2,2395710,7,Baik,Tidak,Ya,Tidak
+1563,30,P,Bandung,31,786779,8,Buruk,Tidak,Ya,Tidak
+1079,28,L,Bandung,36,1480645,4,Baik,Tidak,Tidak,Puas
+3981,38,L,Bandung,31,2153643,9,Buruk,Ya,Tidak,Puas
+7966,55,L,Surabaya,2,2369756,1,Baik,Ya,Ya,Tidak
+8847,63,L,Surabaya,45,3718865,6,Cukup,Tidak,Ya,Puas
+8003,60,L,Jakarta,6,2585500,5,Cukup,Tidak,Tidak,Puas
+2574,53,L,Jakarta,49,936889,5,Buruk,Ya,Tidak,Tidak
+8455,62,P,Medan,29,2837028,9,Sangat Baik,Tidak,Ya,Puas
+2837,58,P,Surabaya,30,3937605,2,Buruk,Ya,Tidak,Puas
+3647,45,P,Jakarta,49,2554827,5,Cukup,Ya,Ya,Tidak
+4524,54,L,Surabaya,1,2923166,7,Buruk,Tidak,Tidak,Tidak
+2266,27,L,Bandung,24,2216431,9,Buruk,Ya,Ya,Puas
+3311,61,P,Surabaya,14,3526896,4,Cukup,Ya,Tidak,Tidak
+5305,60,P,Jakarta,10,1566636,3,Cukup,Ya,Ya,Tidak
+6636,23,P,Bandung,19,2454002,5,Sangat Baik,Tidak,Ya,Puas
+3931,21,P,Surabaya,34,2257228,4,Sangat Baik,Tidak,Tidak,Puas
+4886,44,L,Medan,35,1988175,3,Sangat Baik,Tidak,Tidak,Tidak
+3397,49,P,Bandung,43,1236936,8,Cukup,Ya,Tidak,Puas
+6283,51,L,Jakarta,29,3747598,7,Cukup,Tidak,Ya,Tidak
+8860,33,L,Medan,40,1814856,5,Sangat Baik,Ya,Tidak,Tidak
+4209,35,L,Bandung,47,4717339,5,Sangat Baik,Ya,Ya,Puas
+6160,36,P,Bandung,24,251027,3,Buruk,Ya,Tidak,Puas
+4950,54,P,Bandung,33,1629094,2,Buruk,Tidak,Tidak,Puas
+5361,45,L,Medan,18,370524,2,Cukup,Ya,Tidak,Puas
+5307,59,P,Surabaya,25,2557760,9,Cukup,Tidak,Ya,Tidak
+1064,48,P,Medan,11,4319633,1,Baik,Ya,Tidak,Puas
+4074,57,L,Surabaya,32,2703235,2,Sangat Baik,Tidak,Tidak,Puas
+2082,63,L,Surabaya,43,3662997,6,Baik,Ya,Ya,Puas
+2600,58,P,Medan,35,1142858,6,Sangat Baik,Tidak,Tidak,Puas
+7496,36,P,Bandung,27,1682683,1,Buruk,Ya,Tidak,Tidak
+8399,45,L,Medan,15,4120650,3,Cukup,Ya,Ya,Puas
+2456,44,P,Surabaya,11,833783,6,Sangat Baik,Tidak,Tidak,Tidak
+7268,56,L,Bandung,14,1952955,4,Baik,Tidak,Tidak,Puas
+8069,51,P,Bandung,36,2105771,2,Sangat Baik,Tidak,Tidak,Puas
+7393,46,P,Jakarta,28,3176303,8,Baik,Ya,Tidak,Tidak
+4259,40,L,Medan,30,4808088,4,Baik,Ya,Ya,Tidak
+4402,21,P,Bandung,22,1410139,9,Sangat Baik,Ya,Tidak,Puas
+8821,60,P,Bandung,18,4590821,9,Baik,Tidak,Ya,Tidak
+2214,51,L,Jakarta,33,3626881,4,Sangat Baik,Tidak,Tidak,Puas
+7389,26,L,Jakarta,41,2921500,4,Sangat Baik,Tidak,Tidak,Tidak
+9436,34,L,Medan,2,2609536,3,Buruk,Ya,Tidak,Puas
+6224,38,L,Jakarta,25,3462594,5,Buruk,Tidak,Ya,Tidak
+5800,39,L,Jakarta,9,2807109,3,Sangat Baik,Tidak,Ya,Tidak
+6153,28,L,Medan,39,691531,6,Baik,Ya,Tidak,Tidak
+1232,42,P,Jakarta,32,3285715,8,Buruk,Ya,Tidak,Tidak
+7487,32,P,Surabaya,2,2993101,2,Cukup,Ya,Tidak,Tidak
+6297,56,L,Surabaya,29,3682241,8,Sangat Baik,Ya,Ya,Puas
+8280,34,L,Bandung,24,3025623,6,Cukup,Tidak,Ya,Tidak
+8009,40,P,Surabaya,47,2395636,8,Sangat Baik,Tidak,Tidak,Puas
+4923,20,P,Surabaya,37,2281284,8,Buruk,Tidak,Ya,Puas
+9583,51,P,Surabaya,32,1084802,8,Buruk,Ya,Ya,Tidak
+2316,39,P,Surabaya,3,4958359,1,Cukup,Ya,Ya,Puas
+2858,19,P,Medan,3,3522952,8,Baik,Ya,Ya,Tidak
+1327,48,P,Bandung,11,704345,3,Baik,Ya,Ya,Puas
+8709,62,L,Medan,44,4102181,8,Sangat Baik,Tidak,Tidak,Puas
+8362,25,P,Medan,44,3928856,9,Sangat Baik,Ya,Ya,Tidak
+3219,42,P,Bandung,39,2996701,4,Cukup,Ya,Tidak,Puas
+8654,59,P,Surabaya,48,1430614,5,Cukup,Tidak,Ya,Tidak
+3335,26,L,Surabaya,9,4835486,7,Sangat Baik,Ya,Ya,Tidak
+4770,20,P,Bandung,21,3419419,9,Cukup,Tidak,Tidak,Puas
+7146,20,P,Surabaya,35,2041527,3,Sangat Baik,Tidak,Ya,Puas
+6025,20,P,Medan,32,1660224,1,Sangat Baik,Tidak,Ya,Puas
+3800,45,L,Surabaya,5,998145,7,Cukup,Tidak,Ya,Puas
+3915,58,L,Jakarta,17,4785829,8,Baik,Ya,Ya,Tidak
+7578,61,P,Jakarta,44,2001680,2,Cukup,Tidak,Tidak,Tidak
+3265,64,P,Jakarta,39,4457258,3,Cukup,Ya,Ya,Puas
+8507,62,L,Surabaya,39,876732,6,Cukup,Tidak,Ya,Puas
+3748,49,P,Bandung,25,3410597,8,Buruk,Tidak,Ya,Puas
+3713,58,L,Surabaya,2,2099039,1,Buruk,Ya,Tidak,Tidak
+6988,21,L,Medan,6,2879291,6,Buruk,Tidak,Tidak,Puas
+1896,52,P,Surabaya,28,653469,6,Baik,Tidak,Tidak,Tidak
+5957,50,P,Jakarta,35,744245,1,Sangat Baik,Ya,Ya,Tidak
+4217,48,P,Bandung,15,818604,7,Buruk,Tidak,Ya,Tidak
+5917,41,P,Jakarta,4,3378244,4,Buruk,Ya,Ya,Puas
+1663,60,L,Surabaya,1,2440632,8,Buruk,Ya,Ya,Tidak
+2304,37,L,Jakarta,23,1006203,6,Cukup,Tidak,Tidak,Puas
+4895,52,P,Surabaya,38,468143,5,Sangat Baik,Tidak,Ya,Puas
+7576,37,P,Surabaya,46,2675949,7,Sangat Baik,Ya,Ya,Tidak
+4635,22,L,Jakarta,27,1739325,7,Sangat Baik,Ya,Ya,Puas
+4070,36,P,Jakarta,7,1551866,8,Cukup,Ya,Ya,Puas
+9494,47,P,Surabaya,18,408974,2,Buruk,Tidak,Ya,Tidak
+2693,32,P,Medan,13,1697992,7,Baik,Tidak,Ya,Puas
+8579,36,L,Bandung,20,3960419,9,Baik,Ya,Tidak,Tidak
+4137,63,L,Surabaya,39,509975,8,Baik,Tidak,Tidak,Puas
+1663,37,P,Medan,35,907010,6,Buruk,Ya,Tidak,Puas
+4418,20,L,Medan,34,530338,1,Sangat Baik,Tidak,Tidak,Tidak
+6083,45,L,Bandung,27,583217,2,Buruk,Ya,Tidak,Tidak
+7409,37,L,Bandung,24,3375217,7,Cukup,Ya,Tidak,Tidak
+5960,42,P,Surabaya,11,4382255,8,Buruk,Ya,Tidak,Puas
+2692,37,P,Medan,17,4375260,4,Cukup,Ya,Tidak,Puas
+6390,21,P,Jakarta,37,381001,3,Buruk,Tidak,Ya,Puas
+1523,58,L,Jakarta,11,3001488,3,Sangat Baik,Tidak,Tidak,Tidak
+6996,40,P,Medan,9,686351,8,Buruk,Tidak,Ya,Puas
+9769,49,P,Surabaya,49,184967,7,Baik,Ya,Tidak,Puas
+4561,54,L,Surabaya,46,1865373,6,Baik,Tidak,Tidak,Tidak
+9494,49,L,Medan,35,3510631,4,Cukup,Ya,Tidak,Puas
+9330,36,P,Bandung,3,4644011,5,Buruk,Tidak,Ya,Tidak
+5194,32,P,Jakarta,18,3510574,5,Sangat Baik,Ya,Tidak,Tidak
+4690,23,P,Jakarta,10,683037,2,Baik,Ya,Ya,Tidak
+5664,44,P,Jakarta,25,2848742,2,Cukup,Tidak,Ya,Tidak
+8222,46,L,Surabaya,28,4979148,3,Cukup,Tidak,Tidak,Tidak
+7559,26,P,Jakarta,37,3275010,9,Baik,Ya,Ya,Tidak
+1115,57,P,Surabaya,17,4115891,6,Baik,Tidak,Tidak,Tidak
+1074,35,P,Bandung,49,2489109,2,Cukup,Tidak,Ya,Puas
+2893,31,P,Bandung,40,4732102,4,Buruk,Ya,Ya,Puas
+5186,48,P,Jakarta,32,95641,1,Sangat Baik,Tidak,Ya,Puas
+3155,28,P,Jakarta,47,1015272,1,Sangat Baik,Tidak,Ya,Tidak
+1646,22,L,Bandung,32,3770277,5,Cukup,Tidak,Tidak,Puas
+7801,47,L,Medan,9,4491340,1,Buruk,Tidak,Ya,Puas
+6929,50,P,Surabaya,8,3046945,2,Buruk,Ya,Tidak,Tidak
+4883,43,P,Surabaya,41,3622349,4,Sangat Baik,Ya,Ya,Tidak
+7664,50,L,Bandung,10,1558238,6,Sangat Baik,Tidak,Tidak,Puas
+7014,40,L,Medan,38,1384205,3,Buruk,Tidak,Ya,Puas
+3409,33,L,Surabaya,15,1514744,8,Baik,Ya,Ya,Tidak
+2352,20,L,Bandung,20,1535534,8,Sangat Baik,Tidak,Ya,Puas
+1020,44,P,Bandung,48,2618675,4,Cukup,Tidak,Tidak,Tidak
+3409,27,L,Jakarta,43,2299732,3,Baik,Tidak,Ya,Tidak
+2912,43,L,Medan,2,2177297,4,Baik,Tidak,Tidak,Puas
+3135,31,L,Medan,10,4600520,6,Cukup,Ya,Ya,Tidak
+8425,50,L,Surabaya,13,1116648,9,Buruk,Tidak,Tidak,Tidak
+6732,29,P,Surabaya,41,1080916,3,Cukup,Ya,Tidak,Tidak
+4041,64,L,Medan,21,1258423,1,Cukup,Ya,Tidak,Puas
+4831,61,L,Bandung,5,2071978,7,Cukup,Tidak,Tidak,Tidak
+7891,56,L,Surabaya,49,3600524,1,Baik,Ya,Tidak,Puas
+5881,22,L,Medan,4,4773797,9,Sangat Baik,Ya,Ya,Tidak
+3212,51,L,Surabaya,15,3138894,9,Buruk,Ya,Ya,Puas
+1985,21,L,Medan,19,3191813,2,Cukup,Tidak,Ya,Puas
+4827,24,P,Medan,10,3601656,7,Sangat Baik,Tidak,Tidak,Tidak
+2818,61,L,Surabaya,24,1549601,9,Buruk,Tidak,Tidak,Tidak
+5265,21,P,Bandung,27,2562416,6,Cukup,Tidak,Tidak,Tidak
+2135,35,L,Medan,13,1411129,4,Cukup,Tidak,Ya,Puas
+1324,23,L,Surabaya,15,1151688,3,Buruk,Ya,Ya,Tidak
+3217,28,P,Surabaya,43,3615110,9,Buruk,Tidak,Tidak,Tidak
+2777,54,L,Medan,15,2864954,6,Sangat Baik,Tidak,Tidak,Puas
+2779,56,P,Medan,34,3465260,4,Cukup,Ya,Tidak,Tidak
+7026,64,L,Surabaya,34,2334860,5,Buruk,Ya,Tidak,Tidak
+8576,32,P,Bandung,27,3945821,3,Baik,Tidak,Tidak,Tidak
+6419,57,L,Bandung,8,1562432,6,Baik,Tidak,Tidak,Puas
+6084,37,P,Medan,42,2188343,8,Sangat Baik,Tidak,Ya,Tidak
+9774,46,L,Surabaya,45,3770769,8,Buruk,Tidak,Tidak,Puas
+4766,27,P,Surabaya,48,2359500,4,Buruk,Ya,Tidak,Tidak
+3931,60,P,Bandung,34,983231,4,Cukup,Tidak,Tidak,Tidak
+9387,31,P,Surabaya,28,4942291,9,Baik,Ya,Tidak,Puas
+8884,59,P,Bandung,16,3626381,8,Sangat Baik,Ya,Ya,Tidak
+8530,34,L,Jakarta,42,1787105,8,Sangat Baik,Tidak,Ya,Tidak
+5423,20,P,Surabaya,30,2560036,6,Sangat Baik,Tidak,Ya,Tidak
+3446,62,L,Bandung,36,2847734,1,Cukup,Ya,Tidak,Puas
+8439,44,L,Jakarta,10,4469804,6,Baik,Ya,Tidak,Puas
+7605,49,P,Medan,33,4423010,8,Buruk,Ya,Tidak,Tidak
+7183,45,L,Surabaya,6,654567,9,Cukup,Ya,Ya,Puas
+3004,20,P,Medan,43,4059942,2,Cukup,Ya,Ya,Puas
+7263,26,P,Jakarta,43,774109,8,Buruk,Tidak,Tidak,Puas
+6145,33,L,Medan,36,4443158,2,Buruk,Tidak,Ya,Tidak
+4283,33,L,Bandung,47,1828417,2,Sangat Baik,Tidak,Ya,Puas
+9184,20,L,Bandung,48,4872619,3,Cukup,Tidak,Tidak,Tidak
+8963,54,P,Bandung,31,4560916,9,Cukup,Ya,Tidak,Tidak
+3809,56,L,Bandung,36,3373774,2,Sangat Baik,Ya,Tidak,Tidak
+3344,57,P,Surabaya,3,1528865,6,Sangat Baik,Ya,Tidak,Puas
+8053,23,P,Jakarta,13,584546,3,Buruk,Tidak,Ya,Tidak
+2611,35,L,Bandung,24,1178998,2,Sangat Baik,Ya,Tidak,Puas
+7174,30,L,Medan,26,381118,4,Baik,Tidak,Tidak,Tidak
+5916,51,P,Bandung,3,1719134,9,Cukup,Tidak,Ya,Tidak
+3152,45,L,Medan,41,1574384,2,Cukup,Tidak,Ya,Puas
+2681,26,P,Medan,5,183810,4,Sangat Baik,Tidak,Ya,Puas
+1283,42,L,Surabaya,36,2274407,3,Cukup,Tidak,Tidak,Puas
+6842,51,L,Surabaya,29,596073,3,Buruk,Ya,Tidak,Puas
+7238,20,P,Bandung,14,4028910,9,Cukup,Ya,Tidak,Tidak
+9878,39,L,Medan,8,4837604,7,Baik,Ya,Ya,Puas
+8870,41,L,Surabaya,30,3167634,9,Buruk,Tidak,Ya,Tidak
+9219,30,P,Surabaya,35,2016002,8,Sangat Baik,Tidak,Tidak,Puas
+2963,63,P,Medan,17,4338407,1,Baik,Ya,Tidak,Puas
+8115,18,L,Bandung,11,4511171,6,Baik,Tidak,Ya,Tidak
+9641,43,L,Bandung,48,2221894,8,Sangat Baik,Ya,Tidak,Tidak
+5909,21,P,Bandung,36,1949145,7,Baik,Tidak,Ya,Tidak
+8193,56,L,Surabaya,39,683248,4,Baik,Tidak,Ya,Tidak
+1596,52,P,Jakarta,34,209403,1,Cukup,Ya,Ya,Puas
+8988,48,L,Medan,21,247721,5,Cukup,Ya,Ya,Puas
+1966,37,P,Surabaya,1,4129802,9,Cukup,Ya,Ya,Puas
+3729,33,P,Jakarta,26,348622,2,Cukup,Tidak,Ya,Tidak
+8335,62,P,Jakarta,5,789733,5,Buruk,Ya,Tidak,Puas
+8852,25,P,Jakarta,18,4401753,5,Cukup,Tidak,Ya,Tidak
+8969,18,P,Surabaya,35,1130687,7,Baik,Ya,Tidak,Puas
+5232,39,L,Jakarta,8,4484901,6,Cukup,Ya,Ya,Tidak
+4521,61,P,Medan,40,3430510,2,Buruk,Tidak,Tidak,Puas
+1100,53,L,Medan,29,2945496,4,Sangat Baik,Tidak,Tidak,Puas
+8586,63,L,Medan,22,858001,6,Sangat Baik,Ya,Ya,Tidak
+1992,26,L,Jakarta,12,4566808,2,Baik,Ya,Ya,Puas
+7179,43,L,Medan,13,3300234,9,Cukup,Tidak,Ya,Puas
+6432,18,P,Medan,40,2938175,9,Baik,Ya,Tidak,Tidak
+6195,33,L,Jakarta,40,2126383,5,Buruk,Ya,Tidak,Tidak
+7241,29,L,Bandung,32,2138324,6,Baik,Tidak,Tidak,Tidak
+1971,18,L,Surabaya,15,1030216,9,Cukup,Ya,Ya,Puas
+1728,18,L,Jakarta,40,3586889,4,Baik,Ya,Tidak,Tidak
+4342,29,L,Jakarta,28,2228183,3,Sangat Baik,Ya,Tidak,Puas
+1581,32,P,Medan,10,1482765,4,Cukup,Ya,Ya,Puas
+2867,28,L,Jakarta,23,4182276,3,Baik,Ya,Ya,Tidak
+1852,52,P,Jakarta,35,1749583,7,Buruk,Ya,Ya,Puas
+6205,62,P,Bandung,20,3673746,5,Sangat Baik,Ya,Ya,Puas
+1944,49,P,Bandung,11,247248,8,Cukup,Ya,Tidak,Puas
+5607,21,L,Jakarta,19,1320356,3,Baik,Tidak,Tidak,Tidak
+6506,55,L,Bandung,46,198592,3,Buruk,Tidak,Ya,Tidak
+4654,37,L,Surabaya,12,448365,2,Buruk,Ya,Ya,Puas
+4095,55,L,Bandung,49,1799455,9,Buruk,Ya,Tidak,Tidak
+7710,28,L,Bandung,14,1422118,8,Buruk,Ya,Ya,Tidak
+1710,42,P,Surabaya,41,66037,7,Buruk,Tidak,Tidak,Tidak
+3144,38,P,Bandung,36,1076370,2,Baik,Ya,Ya,Puas
+7893,62,P,Surabaya,13,289381,2,Cukup,Tidak,Ya,Puas
+9352,23,P,Jakarta,33,1962752,6,Buruk,Ya,Tidak,Puas
+1694,33,P,Bandung,49,1248587,7,Buruk,Tidak,Tidak,Puas
+7896,21,L,Jakarta,19,3214441,7,Cukup,Ya,Ya,Tidak
+8951,37,L,Medan,46,2349885,8,Sangat Baik,Ya,Ya,Tidak
+8764,50,P,Medan,12,1014083,7,Buruk,Tidak,Ya,Puas
+5319,41,P,Surabaya,39,584449,9,Buruk,Tidak,Tidak,Tidak
+2989,45,L,Jakarta,10,875249,3,Buruk,Tidak,Ya,Tidak
+6337,64,L,Jakarta,47,389555,7,Sangat Baik,Ya,Tidak,Tidak
+2586,37,L,Medan,42,4579975,7,Cukup,Tidak,Tidak,Puas
+3473,40,P,Bandung,29,2283944,8,Sangat Baik,Tidak,Ya,Tidak
+8537,32,P,Bandung,27,4350266,3,Buruk,Tidak,Ya,Tidak
+8196,29,L,Bandung,37,1612673,9,Baik,Ya,Tidak,Puas
+7916,20,L,Jakarta,26,4320527,3,Buruk,Ya,Tidak,Puas
+5643,19,L,Medan,45,3324229,2,Buruk,Ya,Tidak,Tidak
+4752,40,L,Medan,21,4313000,1,Sangat Baik,Ya,Tidak,Tidak
+8509,36,L,Medan,29,562882,7,Sangat Baik,Tidak,Ya,Puas
+2648,63,P,Surabaya,16,4648980,8,Baik,Ya,Ya,Tidak
+1579,39,P,Surabaya,8,1635658,9,Cukup,Tidak,Ya,Tidak
+9976,28,L,Bandung,30,2171467,5,Baik,Tidak,Tidak,Puas
+5693,43,L,Bandung,7,2521085,9,Cukup,Ya,Ya,Puas
+9704,33,L,Medan,18,4839267,8,Baik,Tidak,Ya,Tidak
+9677,27,P,Medan,4,4809677,8,Cukup,Ya,Tidak,Tidak
+8791,24,P,Medan,46,4789539,1,Sangat Baik,Ya,Ya,Tidak
+4357,34,P,Surabaya,25,527253,1,Buruk,Tidak,Ya,Puas
+1173,32,L,Bandung,10,3051210,6,Sangat Baik,Ya,Ya,Tidak
+4615,54,P,Medan,22,3651820,6,Buruk,Ya,Ya,Tidak
+7109,60,P,Bandung,44,2512153,5,Buruk,Ya,Ya,Tidak
+9768,58,P,Medan,43,1539489,6,Baik,Tidak,Tidak,Tidak
+2297,51,L,Medan,16,1991781,5,Sangat Baik,Ya,Ya,Tidak
+9053,46,P,Bandung,33,740138,9,Buruk,Ya,Ya,Puas
+5764,42,L,Jakarta,15,1360951,6,Baik,Ya,Tidak,Tidak
+4692,20,P,Bandung,12,2611116,1,Buruk,Tidak,Tidak,Puas
+7200,18,P,Medan,24,4551212,2,Baik,Tidak,Tidak,Puas
+9555,31,L,Surabaya,9,2608029,5,Cukup,Tidak,Tidak,Puas
+7251,40,P,Bandung,5,883496,8,Buruk,Ya,Tidak,Tidak
+2089,42,L,Surabaya,47,3052963,7,Cukup,Ya,Tidak,Puas
+7567,46,P,Jakarta,44,429618,3,Sangat Baik,Tidak,Tidak,Puas
+8184,51,L,Bandung,38,2597546,2,Baik,Tidak,Ya,Puas
+8312,41,P,Bandung,43,3848903,5,Buruk,Ya,Tidak,Tidak
+8541,45,P,Jakarta,7,3023570,6,Sangat Baik,Tidak,Tidak,Tidak
+3499,52,L,Jakarta,20,4303481,5,Sangat Baik,Ya,Tidak,Tidak
+1707,33,L,Bandung,8,2760205,6,Baik,Ya,Ya,Puas
+2917,37,P,Bandung,13,3326711,5,Cukup,Tidak,Tidak,Tidak
+8391,54,P,Medan,1,4253206,2,Buruk,Ya,Tidak,Puas
+2054,19,L,Surabaya,18,1601479,5,Baik,Ya,Ya,Tidak
+5787,58,L,Bandung,1,1278271,7,Buruk,Tidak,Tidak,Puas
+3080,23,P,Surabaya,6,4220063,4,Buruk,Tidak,Tidak,Tidak
+8576,34,L,Medan,20,1791582,8,Cukup,Ya,Tidak,Tidak
+9234,64,L,Bandung,16,2350507,2,Baik,Ya,Ya,Tidak
+9659,27,L,Bandung,19,4443851,8,Baik,Ya,Tidak,Puas
+2023,53,L,Jakarta,22,4242640,2,Buruk,Ya,Tidak,Puas
+2695,47,P,Surabaya,5,2086863,5,Baik,Ya,Ya,Puas
+5232,63,P,Bandung,36,2254106,9,Buruk,Ya,Tidak,Tidak
+4813,47,L,Medan,4,3172959,6,Buruk,Tidak,Ya,Puas
+9724,37,L,Medan,16,1774853,5,Cukup,Tidak,Tidak,Puas
+4962,24,L,Medan,41,876944,7,Cukup,Ya,Tidak,Tidak
+2248,62,P,Medan,34,2824552,7,Sangat Baik,Tidak,Ya,Puas
+8906,24,P,Bandung,22,2016008,9,Baik,Tidak,Ya,Puas
+8205,19,P,Bandung,42,2774955,1,Baik,Tidak,Tidak,Tidak
+8564,29,P,Medan,12,2873529,3,Cukup,Tidak,Tidak,Tidak
+7648,62,L,Medan,39,949559,2,Baik,Tidak,Tidak,Puas
+7239,52,L,Medan,30,4102310,8,Baik,Tidak,Ya,Puas
+4203,36,L,Jakarta,9,340694,5,Cukup,Ya,Ya,Tidak
+6302,47,L,Surabaya,4,674472,1,Sangat Baik,Tidak,Ya,Puas
+6888,59,L,Medan,2,4034412,8,Cukup,Ya,Ya,Tidak
+6897,34,L,Surabaya,44,2291295,8,Baik,Ya,Tidak,Puas
+5881,40,L,Jakarta,3,1963567,7,Sangat Baik,Ya,Tidak,Puas
+9640,59,L,Medan,38,1431561,1,Sangat Baik,Ya,Tidak,Puas
+5500,56,P,Jakarta,36,1126545,4,Buruk,Ya,Tidak,Tidak
+9890,36,L,Surabaya,49,3774811,1,Cukup,Tidak,Tidak,Puas
+5255,50,P,Medan,7,877882,2,Sangat Baik,Ya,Ya,Tidak
+3897,43,L,Jakarta,28,3165397,1,Sangat Baik,Tidak,Tidak,Tidak
+6280,56,L,Bandung,30,3293096,4,Sangat Baik,Ya,Ya,Puas
+6903,46,L,Bandung,5,2041926,1,Sangat Baik,Ya,Tidak,Tidak
+3011,57,L,Surabaya,3,1228127,1,Baik,Ya,Tidak,Tidak
+7395,35,P,Bandung,41,3947665,4,Cukup,Ya,Tidak,Tidak
+3820,62,L,Medan,31,1364274,2,Cukup,Ya,Tidak,Puas
+5980,48,L,Bandung,19,234940,5,Sangat Baik,Ya,Tidak,Tidak
+7943,63,P,Medan,34,1043520,6,Sangat Baik,Tidak,Tidak,Puas
+2646,59,L,Medan,48,1241110,3,Baik,Ya,Ya,Tidak
+2360,55,L,Surabaya,49,4886903,6,Sangat Baik,Ya,Ya,Puas
+3559,18,P,Jakarta,23,3438405,9,Buruk,Tidak,Tidak,Puas
+8434,48,P,Bandung,49,817902,1,Cukup,Tidak,Tidak,Puas
+6041,30,L,Bandung,49,544035,6,Cukup,Ya,Tidak,Tidak
+4672,21,L,Surabaya,36,2625784,3,Baik,Ya,Ya,Puas
+8952,47,P,Jakarta,46,4601611,7,Buruk,Ya,Ya,Tidak
+4581,48,L,Bandung,38,997140,5,Sangat Baik,Tidak,Ya,Puas
+9192,46,L,Jakarta,21,2940291,4,Cukup,Ya,Tidak,Tidak
+5236,54,L,Surabaya,40,2183812,5,Baik,Ya,Tidak,Tidak
+7017,26,L,Medan,2,2612987,1,Buruk,Ya,Ya,Puas
+6899,63,L,Jakarta,18,1205257,7,Cukup,Tidak,Ya,Puas
+6311,51,P,Bandung,36,2071724,3,Sangat Baik,Ya,Ya,Puas
+1378,57,L,Jakarta,19,798433,8,Buruk,Tidak,Ya,Tidak
+9490,40,L,Bandung,5,700241,9,Baik,Ya,Ya,Tidak
+8618,27,L,Medan,35,3026694,6,Sangat Baik,Tidak,Ya,Tidak
+3906,25,P,Medan,34,3064985,9,Cukup,Ya,Tidak,Puas
+4119,61,L,Medan,35,3012444,4,Baik,Ya,Ya,Puas
+1733,21,L,Medan,41,3540456,7,Sangat Baik,Tidak,Ya,Puas
+8922,33,P,Jakarta,16,4085152,8,Cukup,Ya,Tidak,Puas
+6822,36,L,Bandung,42,434141,6,Cukup,Tidak,Tidak,Puas
+7396,45,P,Medan,30,4415087,8,Buruk,Ya,Tidak,Puas
+9102,53,L,Jakarta,30,3097317,3,Baik,Tidak,Ya,Puas
+2304,20,P,Jakarta,2,2533029,6,Cukup,Ya,Ya,Puas
+3220,59,L,Jakarta,10,4816581,6,Cukup,Tidak,Ya,Puas
